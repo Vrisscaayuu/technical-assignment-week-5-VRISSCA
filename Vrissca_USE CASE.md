@@ -1,0 +1,2 @@
+Sensor camera Raspberry Pi Rev 1.3 berfungsi untuk menambahkan fasilitas camera ke board Raspberry Pi, untuk menjalankan dan menggunakan nya sensor ini harus disertai dengan script python. Proses setting nya terbilang cukup mudah, awali dengan meng aktifkan/enable camera di cinfiguration Raspberry Pi lalu restart.
+[USE CASE] Produk kelompok kami menggunakan sensor Camera Raspberry Pi untuk memantau posisi dan keadaan bayi sebagai objek, sensor ini dihubungkan ke website yang nantinya user dapat melihat kondisi bayi tersebut secara real time.
